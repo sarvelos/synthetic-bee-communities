@@ -1,0 +1,12 @@
+{
+    "iterations": 879,
+    "depth": 6,
+    "learning_rate": 0.1273652712085112,
+    "l2_leaf_reg": 6.153711894346367,
+    "random_strength": 1.3678036662258508,
+    "bagging_temperature": 0.47955672201566124,
+    "border_count": 232,
+    "loss_function": "MultiClass",
+    "random_seed": 42,
+    "verbose": false
+}
